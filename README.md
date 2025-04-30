@@ -32,14 +32,14 @@ This is a simple web application that lets users input a **start city** and **en
 ### 1. Clone the Repo
 
 
-git clone https://github.com/yourusername/map-directions-app.git
-cd map-directions-app
+git clone https://github.com/GaneshDerkar18/map-routing-project.git
+cd GaneshDerkar18/map-routing-project
 
-
-cd ors-proxy
+### 2. Install dependencies
+cd backend
 npm install
 
-
+add your key in .....
 const ORS_API_KEY = 'YOUR_API_KEY';
 
 
